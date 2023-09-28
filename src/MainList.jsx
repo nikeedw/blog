@@ -1,6 +1,6 @@
 import Post from './Post';
 
-const Feed = ({ posts }) => {
+const MainList = ({ posts }) => {
 	return (
 		<>
 			{posts.map(post => (
@@ -10,4 +10,4 @@ const Feed = ({ posts }) => {
 	)
 }
 
-export default Feed
+export default MainList;

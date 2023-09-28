@@ -7,12 +7,6 @@
       "body": "Components\nAPI"
     },
     {
-      "id": 7,
-      "title": "Git & GitHub",
-      "datetime": "September 23, 2023 6:31:42 PM",
-      "body": "Have to learn"
-    },
-    {
       "id": 8,
       "title": "Redux",
       "datetime": "September 23, 2023 6:31:59 PM",
@@ -47,6 +41,12 @@
       "title": "Telegram Bot",
       "datetime": "September 25, 2023 5:13:43 PM",
       "body": "JavaScript bot For Telegram have to make for class group"
+    },
+    {
+      "id": 14,
+      "title": "Easy Peasy Redux",
+      "datetime": "September 28, 2023 8:54:06 PM",
+      "body": "Easy Peasy is an abstraction of Redux, providing a reimagined API that focuses on developer experience. It allows you to quickly and easily manage your state, whilst leveraging the strong architectural guarantees and extensive eco-system that Redux has to offer."
     }
   ]
 }

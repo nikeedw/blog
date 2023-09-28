@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const Missing = () => {
+const PathErrorPage = () => {
 	return (
 		<main className='PathError'>
 			<h2>Page Not Found</h2>
@@ -12,4 +12,4 @@ const Missing = () => {
 	)
 }
 
-export default Missing
+export default PathErrorPage;
