@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nikolaev-IT.github.io/blog/static/css/main.f69a4f82.css",
+    "main.js": "/Nikolaev-IT.github.io/blog/static/js/main.c7da08d8.js",
+    "index.html": "/Nikolaev-IT.github.io/blog/index.html",
+    "main.f69a4f82.css.map": "/Nikolaev-IT.github.io/blog/static/css/main.f69a4f82.css.map",
+    "main.c7da08d8.js.map": "/Nikolaev-IT.github.io/blog/static/js/main.c7da08d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69a4f82.css",
+    "static/js/main.c7da08d8.js"
+  ]
+}
